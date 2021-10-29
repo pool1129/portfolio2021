@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d057ff5e.chunk.css",
-    "main.js": "/portfolio/static/js/main.c2ad80ce.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c2ad80ce.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.d12e09c2.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.d12e09c2.js.map",
-    "static/js/2.bab90aaa.chunk.js": "/portfolio/static/js/2.bab90aaa.chunk.js",
-    "static/js/2.bab90aaa.chunk.js.map": "/portfolio/static/js/2.bab90aaa.chunk.js.map",
-    "static/js/3.97f9b767.chunk.js": "/portfolio/static/js/3.97f9b767.chunk.js",
-    "static/js/3.97f9b767.chunk.js.map": "/portfolio/static/js/3.97f9b767.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.d057ff5e.chunk.css.map": "/portfolio/static/css/main.d057ff5e.chunk.css.map",
-    "static/js/2.bab90aaa.chunk.js.LICENSE.txt": "/portfolio/static/js/2.bab90aaa.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/portfolio/static/media/skillimg.1f3f82df.png"
+    "main.css": "/portfolio2021/static/css/main.411b2ac0.chunk.css",
+    "main.js": "/portfolio2021/static/js/main.aedbbd3d.chunk.js",
+    "main.js.map": "/portfolio2021/static/js/main.aedbbd3d.chunk.js.map",
+    "runtime-main.js": "/portfolio2021/static/js/runtime-main.79cdc503.js",
+    "runtime-main.js.map": "/portfolio2021/static/js/runtime-main.79cdc503.js.map",
+    "static/js/2.734b9272.chunk.js": "/portfolio2021/static/js/2.734b9272.chunk.js",
+    "static/js/2.734b9272.chunk.js.map": "/portfolio2021/static/js/2.734b9272.chunk.js.map",
+    "static/js/3.97f9b767.chunk.js": "/portfolio2021/static/js/3.97f9b767.chunk.js",
+    "static/js/3.97f9b767.chunk.js.map": "/portfolio2021/static/js/3.97f9b767.chunk.js.map",
+    "index.html": "/portfolio2021/index.html",
+    "static/css/main.411b2ac0.chunk.css.map": "/portfolio2021/static/css/main.411b2ac0.chunk.css.map",
+    "static/js/2.734b9272.chunk.js.LICENSE.txt": "/portfolio2021/static/js/2.734b9272.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio2021/static/media/skillimg.1f3f82df.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d12e09c2.js",
-    "static/js/2.bab90aaa.chunk.js",
-    "static/css/main.d057ff5e.chunk.css",
-    "static/js/main.c2ad80ce.chunk.js"
+    "static/js/runtime-main.79cdc503.js",
+    "static/js/2.734b9272.chunk.js",
+    "static/css/main.411b2ac0.chunk.css",
+    "static/js/main.aedbbd3d.chunk.js"
   ]
 }
